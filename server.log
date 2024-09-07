@@ -1,0 +1,113 @@
+
+  ----------------------------------------
+  Date: 08.09.2024, 02:39:29
+  URL: /api/articles/readall
+  Method: GET
+  Payload: {
+  "id": 1
+}
+  ----------------------------------------
+  
+----------------------------------------
+Date: 08.09.2024, 02:46:07
+URL: /api/articles/readall
+Method: GET
+Payload: {
+  "id": 1
+}
+----------------------------------------
+
+----------------------------------------
+Date: 08.09.2024, 02:46:15
+URL: /api/articles/readall
+Method: GET
+Payload: undefined
+----------------------------------------
+
+----------------------------------------
+Date: 08.09.2024, 02:50:27
+URL: /api/articles/readall
+Method: GET
+Payload: undefined
+----------------------------------------
+
+----------------------------------------
+Date: 08.09.2024, 02:53:37
+URL: /api/articles/read
+Method: POST
+Payload: {
+  "title": "Article after separating files",
+  "text": "asdfgbhnj",
+  "author": "me"
+}
+----------------------------------------
+
+----------------------------------------
+Date: 08.09.2024, 02:53:45
+URL: /api/articles/read
+Method: POST
+Payload: {}
+----------------------------------------
+
+----------------------------------------
+Date: 08.09.2024, 02:54:34
+URL: /api/articles/read
+Method: POST
+Payload: {
+  "id": 1
+}
+----------------------------------------
+
+----------------------------------------
+Date: 08.09.2024, 03:04:42
+URL: /api/articles/create
+Method: POST
+Payload: {
+  "title": "New Article Title",
+  "text": "This is the content of the new article.",
+  "author": "Author Name"
+}
+----------------------------------------
+
+----------------------------------------
+Date: 08.09.2024, 03:05:18
+URL: /api/articles/create
+Method: POST
+Payload: {
+  "title": "New Article Title",
+  "text": "This is the content of the new article.",
+  "author": "Author Name"
+}
+----------------------------------------
+
+  ----------------------------------------
+  Date: 08.09.2024, 03:14:35
+  URL: /api/articles/create
+  Method: POST
+  Payload: {
+  "title": "New Article Title",
+  "text": "This is the content of the new article.",
+  "author": "Author Name"
+}
+  ----------------------------------------
+  
+  ----------------------------------------
+  Date: 08.09.2024, 03:19:02
+  URL: /api/articles/delete
+  Method: POST
+  Payload: {
+  "id": 3
+}
+  ----------------------------------------
+  
+  ----------------------------------------
+  Date: 08.09.2024, 03:19:13
+  URL: /api/articles/create
+  Method: POST
+  Payload: {
+  "title": "New Article Title",
+  "text": "This is the content of the new article.",
+  "author": "Author Name"
+}
+  ----------------------------------------
+  
